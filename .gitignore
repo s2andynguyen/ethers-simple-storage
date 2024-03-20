@@ -1,0 +1,14 @@
+# Ignore các file và thư mục đã được tạo bởi hệ thống quản lý gói (npm, pip, yarn, composer, v.v.)
+/node_modules
+
+# Ignore các file cấu hình cụ thể cho các IDE hoặc editor
+.vscode
+
+# Ignore các file build hoặc đầu ra của quá trình build
+/build
+/dist
+
+# Ignore các file cấu hình cá nhân
+.env
+.env.local
+.env.*.local
